@@ -129,7 +129,7 @@ var MovieFinder = function (_React$Component) {
           { className: "row" },
           React.createElement(
             "div",
-            { className: "col-12" },
+            { className: "col-12 text-center" },
             React.createElement(
               "form",
               { onSubmit: this.handleSubmit, className: "form-inline my-4" },

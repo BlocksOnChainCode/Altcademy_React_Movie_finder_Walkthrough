@@ -81,7 +81,7 @@ class MovieFinder extends React.Component {
     return (
       <div className="container">
         <div className="row">
-          <div className="col-12">
+          <div className="col-12 text-center">
             <form onSubmit={this.handleSubmit} className="form-inline my-4">
               <input
                 type="text"
